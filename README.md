@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on [todoist clone](https://github.com/piotrglodek/todoist-clone)
 
+- ✔️ Latest project [meteo](hhttps://meteo-weather.netlify.app/)
+
 - 🌱 I’m currently learning **React, Redux Toolkit**
 
 - 👨‍💻 All of my projects are available at [https://github.com/piotrglodek?tab=repositories](https://github.com/piotrglodek?tab=repositories)
