@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piotrglodek&label=Profile%20views&color=0e75b6&style=flat" alt="piotrglodek" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piotrglodek" alt="piotrglodek" /></a> </p>
-
 - 🔭 I’m currently working on [todoist clone](https://github.com/piotrglodek/todoist-clone)
 
 - 🌱 I’m currently learning **React, Redux Toolkit**
