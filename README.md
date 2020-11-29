@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piotrglodek&label=Profile%20views&color=0e75b6&style=flat" alt="piotrglodek" /> </p>
 
-- 🔭 I’m currently working on [instagram clone](https://github.com/piotrglodek/instagram-clone)
+- 🔭 I’m currently working on [instagram clone](https://github.com/piotrglodek/insta-clone)
 
 - ✔️ Latest project [meteo](https://meteo-weather.netlify.app/)
 
