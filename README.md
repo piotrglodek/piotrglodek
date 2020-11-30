@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Redux Toolkit**
 
-- 👨‍💻 All of my projects are available at [https://github.com/piotrglodek?tab=repositories](https://github.com/piotrglodek?tab=repositories)
+- 👨‍💻 All of my projects are available at [repositories](https://github.com/piotrglodek?tab=repositories)
 
 - 🎯 Future tech **React Native, NextJs, Gatsby**
 
