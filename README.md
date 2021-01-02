@@ -7,11 +7,11 @@
 
 - ✔️ Latest project [meteo](https://meteo-weather.netlify.app/)
 
-- 🌱 I’m currently learning **React, Redux Toolkit**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/piotrglodek?tab=repositories)
 
-- 🎯 Future tech **React Native, NextJs, Gatsby**
+- 🎯 Future tech **NextJS**
 
 - 📫 How to reach me **pioglodek@gmail.com**
 
