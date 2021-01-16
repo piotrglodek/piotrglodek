@@ -7,7 +7,7 @@
 
 - ✔️ Latest project [meteo](https://meteo-weather.netlify.app/)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Typescript, Material-ui**
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/piotrglodek?tab=repositories)
 
